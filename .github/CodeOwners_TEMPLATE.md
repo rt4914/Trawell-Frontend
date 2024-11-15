@@ -1,7 +1,7 @@
 # CODEOWNERS file to define owners each part of the project.
 
 # The user named here will be responsible for every file in the repository.
-* @devFelipeAlmeida @OtherUser1 @OtherUser2
+* @ricardociotto @OtherUser1 @OtherUser2
 
 # Owner for the documentation folder.
 docs/ @ricardociotto @user
