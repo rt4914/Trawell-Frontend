@@ -1,0 +1,11 @@
+# The user named here will be responsible for every file in the repository.
+* @rt4914 
+
+# Owner for the documentation folder.
+docs/ @rt4914
+
+# Owner for the frontend code.
+frontend/ @rt4914
+
+# Owner for specific files such as the README file.
+README.md @rt4914
